@@ -1,5 +1,5 @@
 {
-  "name": "generationtux/jwt-artisan",
+  "name": "ctindinu/jwt-artisan",
   "description": "JWT auth package for Laravel and Lumen",
   "keywords": [
     "jwt",
